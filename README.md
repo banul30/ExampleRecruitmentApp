@@ -1,6 +1,8 @@
 # ExampleRecruitmentApp
 
-zadanie wykonane według wytycznych: 
+In this application, I employed the Facade design pattern. Also used Junit, Mockito if i remember correctly, docker compose and integrated with postgres database
+
+guidelines:
 
 Ticket booking app
 The goal is to build a seat reservation system for a multiplex.
